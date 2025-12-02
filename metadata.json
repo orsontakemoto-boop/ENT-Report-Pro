@@ -1,0 +1,8 @@
+{
+  "name": "ENT Report Pro",
+  "description": "Sistema profissional de captura de videoendoscopia e emissão de laudos otorrinolaringológicos com auxílio de IA.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
